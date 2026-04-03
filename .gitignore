@@ -1,0 +1,18 @@
+# Large MD simulation output (151 GB)
+md/
+
+# Large plot output folders
+Plots_all/
+paper_figures/
+
+# Checkpoint and trajectory files
+*.chk
+*.dcd
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
